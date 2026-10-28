@@ -105,7 +105,3 @@ This project is an independent demonstration of Power BI dashboard development u
 **Amintha Jayasooriya**
 
 Data Science Undergraduate | Power BI | Data Analytics | Business Intelligence
-
----
-
-⭐ If you find this project useful, feel free to explore the repository.
